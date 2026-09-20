@@ -21,7 +21,7 @@ I'm a musician and developer passionate about bringing **music and technology to
 
 My background is rooted in singing, composition, and music production, while my technical journey focuses on **Python, data analysis, machine learning, deep learning, and AI**.
 
-I'm particularly interested in building intelligent systems that can work with **music, audio, and musical data**.
+I'm particularly interested in building intelligent systems and exploring new ideas in technology.
 
 ---
 
@@ -43,21 +43,11 @@ I'm particularly interested in building intelligent systems that can work with *
 
 ---
 
-## Music × AI
-
-> Building the bridge between creativity and technology.
-
-I'm interested in using **AI and machine learning to analyze, understand, and create new possibilities in music**.
-
-My particular interest is exploring computational approaches to **Iranian music, singing, melody, vocal analysis, and musical structures**.
-
----
-
 ## Current Focus
 
-**Machine Learning → Deep Learning → Artificial Intelligence → AI for Music**
+**Machine Learning → Deep Learning → Artificial Intelligence**
 
-I'm currently developing my skills toward building **research-oriented and portfolio-level projects** combining music and AI.
+I'm currently developing my skills toward building **research-oriented and portfolio-level projects**.
 
 ---
 
@@ -67,11 +57,11 @@ I'm currently developing my skills toward building **research-oriented and portf
 
 Research & development projects in:
 
-* 🎼 Music Information Retrieval
-* 🎙️ Vocal & Audio Analysis
-* 📊 Musical Data Analysis
-* 🤖 Machine Learning for Music
-* 🧠 AI & Generative Music
+* 📊 Data Analysis
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 💻 Artificial Intelligence
+* 🐍 Python Development
 
 ---
 
