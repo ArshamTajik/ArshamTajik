@@ -1,23 +1,30 @@
-# Hi, I'm Arsham Tajik 👋
+# Hi, I'm **Arsham Tajik** 👋
 
-### Singer · Musician · Composer · Producer · AI & ML Developer
+## Singer · Musician · Composer · Music Producer · AI & ML Developer
 
-I build at the intersection of **Music, Technology, Data, and Artificial Intelligence**.
+I build at the intersection of **Music, Technology, Data, and Artificial Intelligence.**
 
-🎙️ **Singer & Musician**
-🎼 **Composer**
-🎧 **Music Producer**
-🐍 **Python Developer**
-📊 **Data Analyst**
-🤖 **Machine Learning & Deep Learning**
-🧠 **Artificial Intelligence**
-💻 **Technology & Software**
+### 🎙️ Singer & Musician
+
+### 🎼 Composer
+
+### 🎧 Music Producer
+
+### 🐍 Python Developer
+
+### 📊 Data Analyst
+
+### 🤖 Machine Learning & Deep Learning
+
+### 🧠 Artificial Intelligence
+
+### 💻 Technology & Software
 
 ---
 
 ## About Me
 
-I'm a musician and developer passionate about bringing **music and technology together**.
+I'm a musician and developer passionate about **technology, creativity, and continuous learning**.
 
 My background is rooted in singing, composition, and music production, while my technical journey focuses on **Python, data analysis, machine learning, deep learning, and AI**.
 
